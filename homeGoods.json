@@ -5,7 +5,7 @@
 		"price":"2499",
 		"content":"压感屏幕指纹，手持超级夜景",
 		"info":"全球首款压感屏幕指纹，快速解锁 / 骁龙845处理器，全面提升游戏性能表现 / 四曲面渐变镜面机身，轻薄圆润 / 960帧超慢动作 / 手持超级夜景",
-		"img":"./static/img/xiaomi1.webp",
+		"img":"https://i8.mifile.cn/v1/a1/5c55b30b-abd9-3a52-7f8b-7322d288835d!360x360.webp",
 		"info_img":[
 			{"img":"//i8.mifile.cn/v1/a1/84269c10-cf27-5c8c-6ad8-338ae645fb6d.webp?w=1080&h=1816&bg=2C213C"},
 			{"img":"//i8.mifile.cn/v1/a1/de2e8c3a-cf2f-60d8-f4c4-8437c9920685.webp?w=1080&h=829&bg=0D0E11"}
@@ -265,47 +265,4 @@
 		"info":"酷睿i7处理器 / 轻薄全金属机身 / MX150独立显卡  / 9.5小时超长续航 / FHD全高清屏幕 / 指纹解锁 / 兼顾办公娱乐与轻薄的高性能笔记本",
 		"img":"//i8.mifile.cn/v1/a1/82df8302-8625-d544-8b12-cd37c8b1dd0b!360x360.webp",
 		"info_img":[
-			{"img":"//i8.mifile.cn/b2c-mimall-media/f8156d1339fd596083ec5d0d029b82f3.jpg"},
-			{"img":"//i8.mifile.cn/b2c-mimall-media/553b44ec49e3b3b3ecbe4a05ed0232cf.jpg"}
-		],
-		"imgList":[
-			{"img":"//i8.mifile.cn/v1/a1/316af015-e031-7342-a8e4-2fef542363e0.webp"},
-			{"img":"//i8.mifile.cn/v1/a1/d9242687-07c8-a862-b549-e72984891948.webp"},
-			{"img":"//i8.mifile.cn/v1/a1/1dde941d-29ca-2ff5-4265-5ab1e194bd2a.webp"}
-		],
-		"edition":[
-			{
-				"Memory":"6G+128G",
-				"edition_price":"5999",
-				"color":[
-					{
-						"color_list":"红色",
-						"img":"//i8.mifile.cn/a1/pms_1514387864.15165583.jpg"
-					},
-					{
-						"color_list":"黑色",
-						"img":"//i8.mifile.cn/a1/pms_1514387864.15165583.jpg"
-					},
-					{
-						"color_list":"蓝色",
-						"img":"//i8.mifile.cn/a1/pms_1514387864.15165583.jpg"
-					}
-				]
-			},
-			{
-				"Memory":"8G+256G",
-				"edition_price":"6999",
-				"color":[
-					{
-						"color_list":"天蓝色",
-						"img":"//i8.mifile.cn/a1/pms_1514387864.15165583.jpg"
-					},
-					{
-						"color_list":"白色",
-						"img":"//i8.mifile.cn/a1/pms_1514387864.15165583.jpg"
-					}
-				]
-			}
-		]
-	}
-]
+			{"img":"//i8.mifile.cn/b2c-mimall-media/f8156d1339f
